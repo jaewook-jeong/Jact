@@ -1,12 +1,14 @@
 {
-  "name": "Jact",
+  "name": "jact",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A jact alternative to React",
+  "main": "jact.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "react"
+  ],
+  "author": "woogie",
+  "license": "MIT"
 }
